@@ -34,7 +34,7 @@ Before training machine learning models, the dataset is prepared by:
 
 - Generating new features to uncover valuable patterns
 - Reducing missing data by establishing rules based on passenger relationships and filling values logically
-- 
+  
 ## Statistical Inference
 
 This section focuses on statistical inference to evaluate:
@@ -51,8 +51,6 @@ In this section, statistical modeling is performed by:
 - Combining the three best models into a stacking classifier
 
 ## Conclusions
-
-Here’s a concise summary of your exploratory data analysis, statistical inference, and modeling sections:
 
 - **Exploratory Data Analysis**: The target variable "Transported" is nearly balanced, with key features like CryoSleep and HomePlanet significantly influencing transportation rates. Insights reveal younger passengers are transported more frequently, while higher service expenditures decrease the likelihood of transportation.
 
